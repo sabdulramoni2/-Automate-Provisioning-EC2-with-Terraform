@@ -1,7 +1,7 @@
 # **Automate Provisioning EC2 with Terraform**
 
 ## **Project Overview**
-This project demonstrates how we build our Java application and push to dockewrhub. Then deploy the application to the EKS cluster. 
+This project demonstrates the use of terraform to automate the deployment of various AWS infrastructure.
 
 ---
   
@@ -9,11 +9,24 @@ This project demonstrates how we build our Java application and push to dockewrh
 
 ### **Complete CI/CD Pipeline with DockerHub**
 
-- Created Deployment and Service for App deployment
-- Adjust Jenkinsfile to set environment variables with envsubst
-- Installed “gettext-base” tool inside Jenkins Container on DigitalOcean Server to have envsubst available
-- Created Secret for DockerHub Registry in EKS cluster (connect to EKS cluster if not already) and added reference to Deployment file
-- Executed Jenkins Pipeline
+- Created VPC & Subnet
+- Created custom Route Table
+- Added Subnet Association with Route Table
+- Configured Default/Main Route Table
+- Created Security Group
+- Configured Default Security Group
+- Created EC2 Instance (Fetch AMI, Create ssh key-pair and download .pem file and restrict permission)
+- SSH into EC2 instance
+- Configured ssh key pair in Terraform config file
+- Created EC2 Instance
+    - Fetch AMI
+    - Create ssh key-pair and download .pem file
+    - restrict permission
+- SSH into EC2 instance
+- Automated ssh key-pair - configured ssh key pair in Terraform config file
+- Configured Terraform to install Docker and run nginx image
+- Extract shell commands to own shell script
+- Accessed nginx through Browser
 
 ### **Diagrammatic Presentation**
 - Connected to the cluster
