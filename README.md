@@ -43,11 +43,21 @@ This project demonstrates the use of terraform to automate the deployment of var
   ![image](https://github.com/user-attachments/assets/ea1c3d41-b4b2-424f-9998-9fcf9472631d)
 
 
-  
-
+  ![image](https://github.com/user-attachments/assets/e62753b1-329f-4400-a947-39698149a81b)
 
 
 - Created custom Route Table
+
+  ![image](https://github.com/user-attachments/assets/0dd656f0-3c38-4c0d-83bc-39f143448c91)
+
+
+  ![image](https://github.com/user-attachments/assets/fe678ee5-446a-489b-beeb-6c069296162d)
+
+
+  ![image](https://github.com/user-attachments/assets/9f9bb259-c641-410f-89ca-f15fd66808b7)
+
+
+
 - Added Subnet Association with Route Table
 - Configured Default/Main Route Table
 - Created Security Group
