@@ -59,9 +59,40 @@ This project demonstrates the use of terraform to automate the deployment of var
 
 
 - Added Subnet Association with Route Table
+  ![image](https://github.com/user-attachments/assets/a80b231c-5dea-4af4-a9d2-ab24bbbc5ce7)
+
+  ![image](https://github.com/user-attachments/assets/71b07126-8979-4b0e-aa59-4420c2ea46ca)
+
+  ![image](https://github.com/user-attachments/assets/bb5aeaa3-36fb-4df9-b7d6-5dde51d1b0d3)
+
+
+
+  
+
 - Configured Default/Main Route Table
+  ![image](https://github.com/user-attachments/assets/05bd8992-b2ef-462f-9300-6e861d9a996f)
+
+  ![image](https://github.com/user-attachments/assets/16a2bc97-c332-4cef-a84a-823a5f301e94)
+
+
 - Created Security Group
+
+  ![image](https://github.com/user-attachments/assets/4e30607b-7061-40c5-a250-31f5cd9c0d58)
+
+  ![image](https://github.com/user-attachments/assets/20de3fe7-02aa-4d1b-b843-ea9c867f9b43)
+
+
 - Configured Default Security Group
+  
+  ![image](https://github.com/user-attachments/assets/48313a01-fe2d-4014-9199-ff53bba01f45)
+
+  ![image](https://github.com/user-attachments/assets/78a6f4b7-9a7b-4b92-8fde-38e69d6f8f97)
+
+
+  ![image](https://github.com/user-attachments/assets/2026902e-1218-46d6-aa27-1cc8c5e67e6e)
+
+
+
 - Created EC2 Instance (Fetch AMI, Create ssh key-pair and download .pem file and restrict permission)
 - SSH into EC2 instance
 - Configured ssh key pair in Terraform config file
