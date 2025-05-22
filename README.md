@@ -80,6 +80,13 @@ This project demonstrates the use of terraform to automate the deployment of var
   ![image](https://github.com/user-attachments/assets/07c9df9d-0791-4533-93e8-5ab18f30c40d)
 
   ![image](https://github.com/user-attachments/assets/6b90b880-01c6-4915-ac49-15a96be4d2f2)
+
+  ![image](https://github.com/user-attachments/assets/c6b041dd-4060-452a-85d2-d8519c14edaa)
+
+  ![image](https://github.com/user-attachments/assets/e4fea376-0c26-4450-b5c2-47ec7a4655e1)
+  
+
+
 - Extract shell commands to own shell script
 
   ![image](https://github.com/user-attachments/assets/d86b9ea1-fba5-44e4-be62-52bf0d95167b)
