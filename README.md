@@ -72,6 +72,14 @@ This project demonstrates the use of terraform to automate the deployment of var
 - SSH into EC2 instance
 - Automated ssh key-pair - configured ssh key pair in Terraform config file
 - Configured Terraform to install Docker and run nginx image
+
+  ![image](https://github.com/user-attachments/assets/d4cd03c9-2b2f-41d6-acd3-0a9ce851a6c5)
+
+  ![image](https://github.com/user-attachments/assets/ba4d5e6f-7d55-4d31-a5c3-2fb555c5e3bb)
+
+  ![image](https://github.com/user-attachments/assets/07c9df9d-0791-4533-93e8-5ab18f30c40d)
+
+  ![image](https://github.com/user-attachments/assets/6b90b880-01c6-4915-ac49-15a96be4d2f2)
 - Extract shell commands to own shell script
 
   ![image](https://github.com/user-attachments/assets/d86b9ea1-fba5-44e4-be62-52bf0d95167b)
